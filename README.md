@@ -1,5 +1,6 @@
 ## patches habilitados
 - [alpha](https://st.suckless.org/patches/alpha/)
+- [anysize](https://st.suckless.org/patches/anysize/)
 - [blinking cursor](https://st.suckless.org/patches/blinking_cursor/)
 - [bold is not bright](https://st.suckless.org/patches/bold-is-not-bright/)
 - [box draw](https://st.suckless.org/patches/boxdraw/)
